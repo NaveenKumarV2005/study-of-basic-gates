@@ -1,4 +1,7 @@
-### study-of-basic-gates
+ ## Developed by:NAVEENKUMAR.V
+ ## RegisterNumber: 23013072
+
+## study-of-basic-gates
 
 **AIM:** 
 
@@ -64,17 +67,32 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+<img width="186" alt="293454968-0082adf1-b48d-4b60-a123-5827ad6ea52f" src="https://github.com/NaveenKumarV2005/study-of-basic-gates/assets/151476286/b38d1d7e-c74b-48ae-9e0d-3e927fc11f2d">
+
 
  Developed by: RegisterNumber: 
  
-**Logic symbol & Truthtable**
+**Logic symbol**
+
+
+<img width="228" alt="293841078-02f4765a-33d1-4b67-b24a-b242335a3595" src="https://github.com/NaveenKumarV2005/study-of-basic-gates/assets/151476286/170771b1-a8f8-4e99-96ec-cc0c26541274">
+
+
+
+
+
+**Truthtable**
+
+
+<img width="767" alt="293841122-f7e8db46-cb1a-4131-982f-a4c81ec8a3c8" src="https://github.com/NaveenKumarV2005/study-of-basic-gates/assets/151476286/84b2ca7b-34bf-4e39-ac0f-c11d5269f8ee">
+
+
 
 **RTL realization Output:** 
 <img width="832" alt="293841289-6b645229-8c30-4732-8ff8-9f3fc458d53b" src="https://github.com/NaveenKumarV2005/study-of-basic-gates/assets/151476286/9be7a3d0-4fcf-4ca6-aa66-04ad83b2e348">
 
-**RTL**
+
 
 **Result:**
-
+  Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
